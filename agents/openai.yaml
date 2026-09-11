@@ -1,0 +1,6 @@
+interface:
+  display_name: "API-image"
+  short_description: "通过可信的中继 API 生成或编辑图片"
+  default_prompt: "使用 $api-image，通过已配置的图片中继 API 生成或编辑这张图片。"
+policy:
+  allow_implicit_invocation: true

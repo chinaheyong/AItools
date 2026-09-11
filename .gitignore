@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+auth.json
+generated_images/
+node_modules/
+新建文本文档.txt
