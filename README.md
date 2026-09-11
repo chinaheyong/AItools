@@ -1,4 +1,4 @@
-# API-image：通过自定义中继 API 生成和编辑图片
+# API-image：通过自定义聚合 API 利用 gpt-image-2.5-sunburst 生成和编辑图片
 
 `API-image` 是一个面向 Codex 的图片生成 Skill。它通过你配置的、兼容 OpenAI 图片接口的中继服务调用指定模型，将生成结果保存到本地，并向 Codex 返回结构化 JSON。
 
